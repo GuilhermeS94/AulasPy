@@ -1,0 +1,7 @@
+{
+    "driver" : "{MySQL ODBC 5.3 ANSI Driver}",
+    "server" : "XXX.XXX.XXX.XXX",
+    "database" : "AulasPy",
+    "user" : "usuario",
+    "password" : "senha"
+}
